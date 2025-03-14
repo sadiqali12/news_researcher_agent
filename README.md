@@ -13,7 +13,7 @@ This project is an **AI-powered news researcher agent** that fetches the latest 
 ### 1️⃣ Clone the Repository
 ```sh
 git clone https://github.com/sadiqali12/news_researcher_agent.git
-cd research_agent
+cd news_researcher_agent
 ```
 
 ### 2️⃣ Set Up a Virtual Environment (Optional but Recommended)
