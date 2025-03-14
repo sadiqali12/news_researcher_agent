@@ -37,7 +37,7 @@ SERPER_API_KEY=your_serper_api_key
 ## 🏃‍♂️ Usage
 Run the script to fetch, summarize, and save the latest news:
 ```sh
-python researcher.py
+python main.py
 ```
 
 After execution, the latest news and summaries will be stored in `news.md`.
